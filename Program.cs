@@ -36,8 +36,11 @@ namespace SkillFactory.ColoringNumbers
                             System.Diagnostics.Debug.WriteLine($"Сейчас цвет { color }");
                         }
                         Console.Write(word);
+                        System.Threading.Thread.Sleep(100);
                     }
+                    Console.WriteLine();
                 }
+                while (true) ;
             }
 
         }
