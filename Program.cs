@@ -14,7 +14,7 @@ namespace SkillFactory.ColoringNumbers
             const string HelloWorldEs = "ПриветМир!!!";
 
             var str = new[] {HelloWorldRus, HelloWorldEn, HelloWorldEs};
-            var list = Enum.GetValues(typeof(ConsoleColor)).Cast<ConsoleColor>.ToArray();
+            var list = Enum.GetValues(typeof(ConsoleColor)).Cast<ConsoleColor>().ToArray();
 
             do
             {
