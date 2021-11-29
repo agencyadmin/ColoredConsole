@@ -40,8 +40,8 @@ namespace SkillFactory.ColoringNumbers
                     }
                     Console.WriteLine();
                 }
-                while (true) ;
-            }
+                
+            } while (true) ;
 
         }
     }
