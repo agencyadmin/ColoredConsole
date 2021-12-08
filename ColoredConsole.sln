@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColoredConsole", "ColoredCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicIfOperators", "..\LogicIfOperators\LogicIfOperators.csproj", "{485054D4-C163-467A-964C-8702806B7E81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredConloseSwich", "..\ColoredConloseSwich\ColoredConloseSwich.csproj", "{D62C861D-C76C-4621-B007-FDF67414B2EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{485054D4-C163-467A-964C-8702806B7E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485054D4-C163-467A-964C-8702806B7E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485054D4-C163-467A-964C-8702806B7E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
