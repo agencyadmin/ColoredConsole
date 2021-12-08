@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicIfOperators", "..\Logi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredConloseSwich", "..\ColoredConloseSwich\ColoredConloseSwich.csproj", "{D62C861D-C76C-4621-B007-FDF67414B2EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2Dimention", "..\Array2Dimention\Array2Dimention.csproj", "{24961556-F053-4232-89CE-C72ADF0F5BEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D62C861D-C76C-4621-B007-FDF67414B2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24961556-F053-4232-89CE-C72ADF0F5BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24961556-F053-4232-89CE-C72ADF0F5BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24961556-F053-4232-89CE-C72ADF0F5BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24961556-F053-4232-89CE-C72ADF0F5BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
